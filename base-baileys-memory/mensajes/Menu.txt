@@ -1,0 +1,9 @@
+¡Por favor! Escoge alguna de estas opciones:
+
+1 - Ver Menu del Restaurante (Esto puede tardar unos minutos)
+2 - Reservar Mesa
+3 - Consultas/Aclaraciones 
+
+0 - Finalizar asistencia
+
+
