@@ -17,6 +17,7 @@
     "@bot-whatsapp/database": "^0.1.38",
     "@bot-whatsapp/portal": "^0.1.38",
     "@bot-whatsapp/provider": "^0.1.38",
+    "@whiskeysockets/baileys": "^6.7.18",
     "dotenv": "^16.5.0",
     "pino": "^9.7.0",
     "sharp": "^0.34.2",
