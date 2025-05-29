@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node base-baileys-memory/app.js",
+    "postinstall": "npm install --platform=linux --arch=x64 sharp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
