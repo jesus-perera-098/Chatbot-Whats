@@ -2,10 +2,67 @@
   key: {
     remoteJid: '5219988458630@s.whatsapp.net',
     fromMe: false,
-    id: '8EE8CDB8EF001D9758D46D59CE28FD51',
+    id: '0EE12D117C86F07E91CB877401AF9409',
     participant: undefined
   },
-  messageTimestamp: 1741999380,
+  messageTimestamp: 1742056660,
+  pushName: 'Adriana Santiago',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hol',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hol',
+  from: '5219988458630'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0ae65f74-aad9-424b-b52c-49f3b8dea103',
+  keyword: 'key_c8fb3b12-7cf2-4146-9789-1f9c220b2944',
+  answer: '¡Bienvenido a Bubba Gump!',
+  options: {
+    media: 'https://www.lugaresaccesibles.com/images/place/f132b7827a3d297880557c9e9636e062.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3dd92b40d92cef57c0f650558d6b9c9d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14274a1c-b300-42c4-8167-b0bed2b0b153',
+  keyword: 'ans_0ae65f74-aad9-424b-b52c-49f3b8dea103',
+  answer: "Para dar seguimiento a la asistencia escribe 'Inicio'",
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '03dc293a9cc09fe9ff4d4906c4f7afeb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219988458630@s.whatsapp.net',
+    fromMe: false,
+    id: 'DAAB8E6C468B964BB627A8C7DCA47152',
+    participant: undefined
+  },
+  messageTimestamp: 1742056671,
   pushName: 'Adriana Santiago',
   broadcast: false,
   message: Message {
@@ -20,8 +77,8 @@
   from: '5219988458630'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8940e5e0-7323-47f2-a1c2-eb5c00818b37',
-  keyword: 'key_2894ae45-bec0-48bf-a1ad-736795a42b6c',
+  ref: 'ans_0610a0af-f308-4384-9df4-4f0d47bbcea0',
+  keyword: 'key_31762424-4a64-47ca-bf98-324c69726540',
   answer: '¡Por favor! Escoge alguna de estas opciones:\r\n' +
     '\r\n' +
     '1 - Ver Menu del Restaurante (Esto puede tardar unos minutos)\r\n' +
@@ -43,120 +100,26 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '0fe115fc502c2a086e7825e5098e7af3'
+  refSerialize: 'd2b669872093b6fb4d55fdfb3244e1e9'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5219988458630@s.whatsapp.net',
     fromMe: false,
-    id: 'EF5B10380A165116AC60077683491844',
+    id: '4982062635C4DFF296036A57BB1030D6',
     participant: undefined
   },
-  messageTimestamp: 1741999386,
+  messageTimestamp: 1742056675,
   pushName: 'Adriana Santiago',
   broadcast: false,
   message: Message {
-    conversation: 'inicio',
+    conversation: '2',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'inicio',
+  body: '2',
   from: '5219988458630'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8940e5e0-7323-47f2-a1c2-eb5c00818b37',
-  keyword: 'key_2894ae45-bec0-48bf-a1ad-736795a42b6c',
-  answer: '¡Por favor! Escoge alguna de estas opciones:\r\n' +
-    '\r\n' +
-    '1 - Ver Menu del Restaurante (Esto puede tardar unos minutos)\r\n' +
-    '2 - Reservar Mesa\r\n' +
-    '3 - Consultas/Aclaraciones \r\n' +
-    '\r\n' +
-    '0 - Finalizar asistencia\r\n' +
-    '\r\n' +
-    '\r\n',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '0fe115fc502c2a086e7825e5098e7af3'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5219988458630@s.whatsapp.net',
-    fromMe: false,
-    id: '60845B719E40EC342EB97CE16DCEE2E9',
-    participant: undefined
-  },
-  messageTimestamp: 1741999390,
-  pushName: 'Adriana Santiago',
-  broadcast: false,
-  message: Message {
-    conversation: '0',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '0',
-  from: '5219988458630'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5219988458630@s.whatsapp.net',
-    fromMe: false,
-    id: '4F41BDD6D70F37BD72C3AFEF7545BA48',
-    participant: undefined
-  },
-  messageTimestamp: 1741999400,
-  pushName: 'Adriana Santiago',
-  broadcast: false,
-  message: Message {
-    conversation: 'inicio',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'inicio',
-  from: '5219988458630'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8940e5e0-7323-47f2-a1c2-eb5c00818b37',
-  keyword: 'key_2894ae45-bec0-48bf-a1ad-736795a42b6c',
-  answer: '¡Por favor! Escoge alguna de estas opciones:\r\n' +
-    '\r\n' +
-    '1 - Ver Menu del Restaurante (Esto puede tardar unos minutos)\r\n' +
-    '2 - Reservar Mesa\r\n' +
-    '3 - Consultas/Aclaraciones \r\n' +
-    '\r\n' +
-    '0 - Finalizar asistencia\r\n' +
-    '\r\n' +
-    '\r\n',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '0fe115fc502c2a086e7825e5098e7af3'
 }
